@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import RestaurantLanding from "./landingpage/page";
 import FeaturesSection from "./featuresection/page";
 import SpecialOfferSection from "./offer";
