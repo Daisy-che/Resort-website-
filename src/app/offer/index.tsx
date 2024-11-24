@@ -65,7 +65,7 @@ const SpecialOfferSection = () => {
     <div className="text-center">
       <h2 className="text-3xl font-bold text-gray-900">Our Specials Menu</h2>
       <div className="flex flex-wrap justify-center space-x-4 mt-4 font-bold">
-        <div className="px-4 py-2 rounded-md text-gray-700 text-[#826a45] hover:bg-gray-100 cursor-pointer">
+        <div className="px-4 py-2 rounded-md  text-[#826a45] hover:bg-gray-100 cursor-pointer">
           MAIN DISHES
         </div>
         <div className="px-4 py-2 rounded-md text-gray-700 hover:bg-gray-100 cursor-pointer">
